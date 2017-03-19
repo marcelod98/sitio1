@@ -1,3 +1,28 @@
 /*
 Aqui escribe tu codigo de CSS.
 */
+#tamanologo{ 
+	width: 400px;
+
+}
+.alinaciond{
+	text-align: right;
+}
+.cognitstext{
+	font-size: 30px;
+	font-weight: bolder;
+
+}
+.frontendpadawan{
+	font-size: 15px;
+	line-height: 3px;
+}
+.bordes{
+	border-bottom: 1px solid #C1C1C1;
+	padding-bottom: 2%;
+}
+.freatured{
+	font-size: 15px;
+	color:gray;
+	
+}
